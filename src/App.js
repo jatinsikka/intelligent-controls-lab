@@ -38,12 +38,12 @@ const pages = {
         <div>
           <p className="font-semibold">One Filter to Deploy Them All: Robust Safety for Quadrupedal Navigation in Unknown Environments</p>
           <p>Albert Lin, Shuang Peng, Somil Bansal<br />
-          <i>arXiv, 2024</i> <a href="#" className="text-red-600">[PDF]</a> <a href="#" className="text-red-600">[Website]</a></p>
+          <i>arXiv, 2024</i> <a href="https://example.com/pdf1" target="_blank" rel="noopener noreferrer" className="text-red-600">[PDF]</a> <a href="https://example.com/website1" target="_blank" rel="noopener noreferrer" className="text-red-600">[Website]</a></p>
         </div>
         <div>
           <p className="font-semibold">Enhancing Safety and Robustness of Vision-Based Controllers via Reachability Analysis</p>
           <p>Kaustav Chakraborty, Aryaman Gupta, Somil Bansal<br />
-          <i>arXiv, 2024</i> <a href="#" className="text-red-600">[PDF]</a> <a href="#" className="text-red-600">[Website]</a></p>
+          <i>arXiv, 2024</i> <a href="https://example.com/pdf2" target="_blank" rel="noopener noreferrer" className="text-red-600">[PDF]</a> <a href="https://example.com/website2" target="_blank" rel="noopener noreferrer" className="text-red-600">[Website]</a></p>
         </div>
       </div>
     </>
