@@ -3,7 +3,7 @@ import React, { useState } from "react";
 const pages = {
   homepage: (
     <>
-      <h1 className="text-4xl font-bold text-red-900 mb-4 border-b-4 border-red-800 pb-2">Intelligent Controls Lab</h1>
+      <h1 className="text-4xl font-bold text-red-900 mb-4 border-b-4 border-red-800 pb-2">Intelligent Lab</h1>
       <p className="text-lg max-w-3xl mt-4">
         Department of Mechanical and Aerospace Engineering, NC State University
       </p>
