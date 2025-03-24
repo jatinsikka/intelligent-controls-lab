@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/intelligent-controls-lab/precache-manifest.6c62f654a288fe41cdb31bed56a21b7e.js"
+  "/intelligent-controls-lab/precache-manifest.ff2f04564cf138a813e1ac32e62df724.js"
 );
 
 self.addEventListener('message', (event) => {
